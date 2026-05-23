@@ -1,4 +1,4 @@
-<?php
+https://pub.orcid.org/<?php
 
 /**
  * @file OrcidProfilePlugin.php
